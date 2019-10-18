@@ -6,7 +6,7 @@ package com.github.jitpack;
  */
 public class App 
 {
-    public static void main(trt)(String[] args)
+    public static void main(String[] args)
     {
         System.out.println(new App().greet("world"));
     }
